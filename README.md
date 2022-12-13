@@ -1,2 +1,3 @@
-# Feeding-cost-by-pet-variety
-Bigdata Analysis
+# 반려동물 품종별 사료비용 프로젝트
+
+반려동물의 품종별로 사료비용이 얼마나 드는지 시뮬레이션 하는 빅데이터 분석 프로젝트입니다.
