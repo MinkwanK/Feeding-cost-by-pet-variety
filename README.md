@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/94276637/209357676-05021131-b944-4939-94ae-5139e1441624.png)
+
+
 # 반려동물 품종별 사료비용 프로젝트
 
 ### 개요<br>
